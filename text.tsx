@@ -1,1 +1,1 @@
-console.log("hello from tsx git");
+console.log("hello from tsx gits");
